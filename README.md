@@ -4,7 +4,7 @@ This is a mini bus application. You can get on a bus which is specified on the p
 
 Below you can see the mini demo video of the application.
 
-https://github.com/yunusulucay/TicketApp2/assets/42489236/5110f630-43dd-4e8f-8957-dffea5e71aad
+https://github.com/yunusulucay/Yunus-TicketApp/assets/42489236/e443faed-4f5d-472a-b6af-68f62ad7c0a0
 
 For this application following dependencies used :
 
