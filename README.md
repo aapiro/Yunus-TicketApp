@@ -15,3 +15,5 @@ For this application following dependencies used :
 - Thymeleaf
 - MySQL
 - Docker
+
+Note : You can read the article about this project from : https://medium.com/@yunuseulucay/end-to-end-spring-boot-with-mysql-and-docker-2c42a6e036c0
